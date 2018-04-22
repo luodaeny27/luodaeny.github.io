@@ -1,11 +1,11 @@
 <!-- Song Player http://playlist.me -->
 <script type="text/javascript" src="http://playlist.me/w/script.js" 
-data-config="{'skin':'http://static.tumblr.com/su8juwr/nFjmqh2ux/chave.css','
-volume':50,'
-autoplay':true,'
-shuffle':true,'
-repeat':1,'
-placement':'bottom',
+data-config="{'skin':'http://static.tumblr.com/su8juwr/nFjmqh2ux/chave.css',
+'volume':50,
+'autoplay':true,
+'shuffle':true,
+'repeat':1,
+'placement':'bottom',
 'showplaylist':false,
 'playlist':[
 {'title':'Someone Like You','url':'http://k003.kiwi6.com/hotlink/ifrvhsvpza/Someone_Like_You.mp3'},
@@ -18,5 +18,4 @@ placement':'bottom',
 {'title':'Next To You','url':'https://www.youtube.com/watch?v=lF0i7_NcnlA'},
 {'title':'Taeyeon-Take a bow','url':'https://www.youtube.com/watch?v=ywUB8ap7u8M'},
 {'title':'Umbrella','url':'https://www.youtube.com/watch?v=d81bz66lS4g'}]}" >
-</script>
-<noscript><a href="http://playlist.me/skins/">SCM player skins</a></noscript><!-- playlist.me script end -->
+</script><noscript><a href="http://playlist.me/skins/">SCM player skins</a></noscript><!-- playlist.me script end -->
