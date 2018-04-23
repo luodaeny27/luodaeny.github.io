@@ -1,6 +1,6 @@
 <!-- Song Player http://playlist.me -->
 <script type="text/javascript" src="http://playlist.me/w/script.js" 
-data-config="{'skin':'http://static.tumblr.com/su8juwr/nFjmqh2ux/chave.css',
+data-config="{'skin':'https://luodaeny27.github.io/refer/scmplayer.css',
 'volume':50,
 'autoplay':true,
 'shuffle':true,
