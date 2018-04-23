@@ -1,0 +1,2 @@
+# luodaeny.github.io
+outlinks
