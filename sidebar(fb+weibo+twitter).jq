@@ -60,7 +60,7 @@ img,a {border: 0;}
 <div id="on">
  <div id="facebook_right" style="top: 18%;">
   <div id="facebook_div">
-<img src="https://pic.pimg.tw/luodaeny27/1452444023-3059316400.png" />
+<img src="https://pic.pimg.tw/luodaeny72/1524258823-3635911547.png" />
 <iframe src="http://www.facebook.com/plugins/likebox.php?href=http%3A%2F%2Fwww.facebook.com%2Ftaenydabby&amp;width=292&amp;height=520&amp;show_faces=true&amp;colorscheme=light&amp;stream=true&amp;border_color&amp;header=true&amp;appId=132179142482" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:295px; height:520px;" allowTransparency="true"></iframe>
   </div>
  </div>
@@ -68,7 +68,7 @@ img,a {border: 0;}
 <div id="on">
  <div id="twitter_right" style="top: 12%;">
   <div id="twitter_div">
-   <img id="twitter_right_img" src="https://pic.pimg.tw/luodaeny27/1452479396-3816266117.png"/>
+   <img id="twitter_right_img" src="https://pic.pimg.tw/luodaeny72/1524258824-3157569888.png"/>
 <a class="twitter-timeline"  data-chrome="noborders" data-link-color="#47a61e"  width="295" height="520" href="https://twitter.com/twitter" data-widget-id="686381614113267712">Tweets by @twitter</a><script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
   </div>
  </div>
@@ -76,7 +76,7 @@ img,a {border: 0;}
 <div id="on">
  <div id="weibo_right" style="top: 36%;">
   <div id="weibo_div">
-   <img id="weibo_right_img" src="https://pic.pimg.tw/luodaeny27/1452444086-537134807.png"/>
+   <img id="weibo_right_img" src="https://pic.pimg.tw/luodaeny72/1524258824-3481098257.png"/>
 <iframe width="292" height="420" class="share_self"  frameborder="0" scrolling="no" src="http://widget.weibo.com/weiboshow/index.php?language=&width=250&height=500&fansRow=2&ptype=1&speed=0&skin=4&isTitle=1&noborder=1&isWeibo=1&isFans=0&uid=5196031936&verifier=53b95b99&dpc=1"></iframe>
    </div>
   </div>
